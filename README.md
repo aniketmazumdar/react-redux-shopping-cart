@@ -1,7 +1,7 @@
 # Shoping Cart App
 A single page e-commerce application on React and Redux.
 
-![Screenshot](https://github.com/aniketmazumdar/shopping-cart/blob/develop/src/assets/img/screenshot.jpg =800x500)
+![Screenshot](https://github.com/aniketmazumdar/shopping-cart/blob/main/src/assets/img/screenshot.jpg?raw=true)
 
 ## Description
 This is static e-commerce app. App contains Home, Registration, Login, Product List and Checkout pages. There are mutiple product categories. Based on category you can filter the products. Adding or removing items on the cart, you can got to the checkout page.
